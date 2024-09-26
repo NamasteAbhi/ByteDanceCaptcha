@@ -14,7 +14,7 @@ Count on us for a reliable and up-to-date solution tailored to your needs!.
 
 - Slide
 - Rotate
-- Same Object
+- 3D
 
 Our Service is the ideal solution to build own services.
 
