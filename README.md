@@ -1,4 +1,4 @@
-## ByteDanceCaptcha - (Support: https://t.me/NamasteCoder)
+# Closed 🚫
 
 ### 🚀 Major Update! 🚀 : we're proud to offer complete Captcha Solving and Verification for the TikTok Mobile App & Web! ‼️
 
@@ -17,8 +17,3 @@ Count on us for a reliable and up-to-date solution tailored to your needs!.
 - 3D
 
 Our Service is the ideal solution to build own services.
-
-### 💬 Contact:
-
-Telegram: https://t.me/NamasteCoder <br>
-Rapidapi: https://rapidapi.com/NamasteProgrammer/api/bytedancecaptcha <br>
